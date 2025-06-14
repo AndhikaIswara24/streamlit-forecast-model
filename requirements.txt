@@ -1,7 +1,8 @@
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn
-seaborn
-statsmodels
-streamlit==1.37.1
-matplotlib==3.5.2
+streamlit==1.35.0  # Supports Python 3.13
+altair==5.5.0      # Maintains v4 compatibility
+pandas==2.2.2      # Compatible with numpy<2
+numpy==1.26.4      # Last stable 1.x release
+matplotlib==3.8.4  # Modern and compatible
+seaborn==0.13.2
+statsmodels==0.14.4
+scikit-learn==1.5.0
